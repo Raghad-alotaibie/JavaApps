@@ -15,6 +15,7 @@ Includes turn-based play, win/draw detection, and an option to replay or exit af
 ## Technologies Used
 - Java SE 8+
 - Swing GUI toolkit
+- NetBeans IDE
 
 ## How to Run
 1. Clone or download this repository.
